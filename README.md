@@ -23,10 +23,17 @@ Education
 B.Tech in Computer Science Engineering – Vijaya Institute of Technology for Women
 
 Skills
-	•	C++, HTML,[PYTHON
+	•	C++,HTML,PYTHON
 	•	Data Analytics (in training)
 	•	Critical Thinking & Problem Solving
 	•	Teamwork & Collabortion
+ 
+Interships:
+Blue prism interships
+Robotics intershisps
+
+Project:
+Fake Job Detection Using with machine learning
  
  Connect with me
 
