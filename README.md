@@ -30,7 +30,8 @@ Skills
  
 Interships:
 Blue prism interships
-Robotics intershisps
+Processing mining Virtual intership 
+Robotics Process Automation Virtual Intership
 
 Project:
 Fake Job Detection Using with machine learning
